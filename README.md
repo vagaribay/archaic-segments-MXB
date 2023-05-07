@@ -1,3 +1,5 @@
+# archaic-segments-MXB
+
 This repository contains the code used for the thesis "Detecting Neanderthal and Denisovan introgressed segments in present-day Mexico" by Valeria Añorve-Garibay in 2023.
 
 The thesis can be found at Biblioteca UNAM.
@@ -11,3 +13,5 @@ Data used:
 Data generated:
 
 * Haplotype maps for archaic-introgressed variants in MXB
+
+For any questions please contact Valeria Añorve-Garibay at valeria_garibay@brown.edu
