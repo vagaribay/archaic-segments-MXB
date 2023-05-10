@@ -1,13 +1,12 @@
 __author__ = 'vgaribay'
-import argparse
+
+import argparse, pandas as pd
 
 USAGE = """
 find_shared_sites_btw_data_cohorts.py -v1
                 -v2
                 -o
 """
-
-import argparse, pandas as pd
 
 parser = argparse.ArgumentParser(description="Find share sites between data cohorts..")
 
