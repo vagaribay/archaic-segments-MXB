@@ -8,7 +8,7 @@ find_shared_sites_btw_data_cohorts.py -v1
                 -o
 """
 
-parser = argparse.ArgumentParser(description="Find share sites between data cohorts..")
+parser = argparse.ArgumentParser()
 
 parser.add_argument('-v1', '--vcf1', action="store", dest="data_1", help="", default=None, type=str)
 parser.add_argument('-v2', '--vcf2', action="store", dest="data_2", help="", default=None, type=str)
